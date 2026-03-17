@@ -46,3 +46,5 @@ Proyecto académico / portafolio personal
 ![Favoritos Vacio](screenshots/favoritos-vacio.png)
 ![Home con frase](screenshots/home-con-frase.png)
 ![Favoritos](screenshots/favoritos.png)
+
+---
