@@ -35,7 +35,9 @@ Aplicación móvil desarrollada en Flutter que muestra frases curiosas y adorabl
 Karito Dianeth Medina Chocce
 
 ## 📌 Estado del proyecto
-Proyecto académico / portafolio personal
+- lib/: lógica principal de la aplicación
+- screens/: pantallas de la app
+- widgets/: componentes reutilizables
 
 ---
 
