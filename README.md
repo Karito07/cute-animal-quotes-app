@@ -20,7 +20,13 @@ Aplicación móvil desarrollada en Flutter que muestra frases curiosas y adorabl
 - https://catfact.ninja/fact
 
 ## 📱 Capturas de pantalla
-(Aquí puedes agregar imágenes de la app)
+### 📸 Capturas
+
+![Home](screenshots/home.png)
+![Nueva Frase](screenshots/nueva-frase.png)
+![Favoritos Vacio](screenshots/favoritos-vacio.png)
+![Home con frase](screenshots/home-con-frase.png)
+![Favoritos](screenshots/favoritos.png)
 
 ## ▶️ Cómo ejecutar el proyecto
 1. Clonar el repositorio:
@@ -41,12 +47,3 @@ Karito Dianeth Medina Chocce
 
 ---
 
-## 📸 Capturas
-
-![Home](screenshots/home.png)
-![Nueva Frase](screenshots/nueva-frase.png)
-![Favoritos Vacio](screenshots/favoritos-vacio.png)
-![Home con frase](screenshots/home-con-frase.png)
-![Favoritos](screenshots/favoritos.png)
-
----
